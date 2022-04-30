@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aqxa-2045
+- 👋 Hi, I’m @TofuDarling
 - 👀 I’m interested in JS Development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Discord bot development
